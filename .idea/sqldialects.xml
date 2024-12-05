@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/CSDLQLNHATRO/SQLQuery1.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/backend/models/User.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/backend/models/chutro.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/backend/models/cthd.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/backend/models/hoadon.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/backend/models/nguoithuetro.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/backend/models/phongtro.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/backend/services/user_service.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/backend/utils.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/frontend/views/Admin_show_all_hoadon.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/frontend/views/admin_show_all_chutro.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/frontend/views/admin_show_all_nguoithuetro.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/frontend/views/createHoadon_XuatHoaDon.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/frontend/views/createHoadon_showDSHoaDon.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/frontend/views/createHoadon_update.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/frontend/views/createRoomView.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/frontend/views/createRoomupdateTT_Phong.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/frontend/views/dashboard_admin.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/frontend/views/dashboard_thuetro.py" dialect="GenericSQL" />
+  </component>
+</project>
